@@ -3,19 +3,19 @@
     width: 50%;
     margin: auto;
     padding: 10px;
-  }
+}
 
-  .skill-img {
+.skill-img {
     float: left;
     width: 25%;
     margin: 10px;
-  }
-  
-  .skill-text {
+}
+
+.skill-text {
     margin: 10px;
-  }
-  
-  .skill-title {
+}
+
+.skill-title {
     margin: 10px;
     text-align: left;
-  }
+}
