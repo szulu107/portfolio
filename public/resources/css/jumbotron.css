@@ -1,13 +1,21 @@
 /* This file contains the styles that will be used for the jumbotron */
 .jumbotron {
+    height: fit-content;
+    overflow: hidden;
     padding: 0;
 }
 
 .jumbotron-img {
-    width: 50%;
     float: left;
+    width: 50%;
 }
 
 .jumbotron-main {
     display: inline-block;
+}
+
+.jumbotron-text {
+    margin: 70% 50%;
+    text-align: center;
+    width: 100%;
 }
