@@ -4,3 +4,9 @@
     margin: auto;
     padding: 10px;
   }
+
+  .skill-img {
+    float: left;
+    width: 25%;
+    margin: 10px;
+  }
