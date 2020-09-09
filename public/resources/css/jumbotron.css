@@ -1,0 +1,5 @@
+/* This file contains the styles that will be used for the jumbotron */
+.jumbotron {
+    padding: 0;
+    min-height: 100vh;
+}
