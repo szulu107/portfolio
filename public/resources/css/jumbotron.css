@@ -1,5 +1,13 @@
 /* This file contains the styles that will be used for the jumbotron */
 .jumbotron {
     padding: 0;
-    min-height: 100vh;
+}
+
+.jumbotron-img {
+    width: 50%;
+    float: left;
+}
+
+.jumbotron-main {
+    display: inline-block;
 }
