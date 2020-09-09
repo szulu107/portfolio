@@ -7,3 +7,13 @@
         #52616B
         #1E2022
 */
+
+body {
+    background-color: #f0f5f9;
+    color: #1e2022;
+}
+
+.jumbotron {
+    background-color: #1e2022;
+    color: #f0f5f9;
+}
