@@ -1,1 +1,45 @@
 /* This is the main stylesheet for the project */
+
+body {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn {
+    margin: 20px 0;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Headings */
+
+.big-heading {
+    font-size: 4.5rem;
+    font-weight: bolder;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.section-heading {
+    font-size: 3.25rem;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.medium-heading {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
