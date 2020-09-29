@@ -1,0 +1,16 @@
+#about {
+    background-image: url('../images/bg-1-2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-img {
+    width: 55%;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.about-text {
+    margin-top: 5px;
+    margin: 10px;
+}
