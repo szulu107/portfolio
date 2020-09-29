@@ -1,21 +1,36 @@
 /* This file contains styles used for a skill block */
+
+#skills {
+    background-image: url('../images/bg-2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
 .skill {
-    width: 50%;
-    margin: auto;
+    width: 80%;
+    margin: 20px auto;
     padding: 10px;
+    text-align: left;
+    /* position: relative; */
+}
+
+.skills-extra-text {
+    text-align: center;
 }
 
 .skill-img {
     float: left;
-    width: 25%;
-    margin: 10px;
+    font-size: 12rem;
+    /* width: 25%; */
+    margin: 30px 40px;
 }
 
 .skill-text {
-    margin: 10px;
+    margin: 30px;
+    margin-top: 5%;
 }
 
 .skill-title {
-    margin: 10px;
-    text-align: left;
+    margin: 30px;
 }
