@@ -1,16 +1,21 @@
 /* This file contains the styles that will be used for the jumbotron */
 .jumbotron {
-    height: 100vh;
+    background-image: url('../images/jumbotron-bg.png');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 0;
+    height: 85vh;
     overflow: hidden;
     padding: 0;
-    background-image: url('../images/jumbotron-img.png');
-    background-position: 0 100%;
-    background-size: 50%;
-    background-repeat: no-repeat;
+}
+
+.jumbotron .container-fluid {
+    padding: 3% 15% 7%;
 }
 
 
 .jumbotron-text {
-    margin: 50% auto;
+    margin: 30% auto;
     text-align: center;
 }
