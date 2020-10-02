@@ -10,3 +10,8 @@ footer {
 .footer-link {
     margin: 20px;
 }
+
+.footer-copyright {
+    margin-top: 20px;
+    font-size: 0.725rem;
+}
