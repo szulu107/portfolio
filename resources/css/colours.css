@@ -13,6 +13,12 @@ body {
     color: #1e2022;
 }
 
+/* Backgrounds */
+.bg-dark {
+    background-color: #1e2022;
+    color: #f0f5f9;
+}
+
 /* Buttons */
 
 .btn-secondary {
@@ -48,6 +54,11 @@ body {
 .navbar-dark .nav-item:hover .nav-link {
     /* background-color: rgba(82, 97, 107, 0.30); */
     color: #ec9192;
+}
+
+.navbar-dark {
+    background-color: #1e2022;
+    color: #f0f5f9;
 }
 
 /* Sections */
