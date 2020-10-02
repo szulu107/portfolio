@@ -19,3 +19,50 @@
     margin: 30% auto;
     text-align: center;
 }
+
+/* Media Queries */
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .jumbotron {
+        background-size: 500%;
+        height: 80vh;
+    }
+
+    .jumbotron-text {
+        margin: 20% 0;
+        padding: 0;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .jumbotron {
+        background-size: 312.5%;
+    }
+
+    .jumbotron-text {
+        margin: 50% auto;
+    }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .jumbotron {
+        background-size: 235%;
+    }
+
+    .jumbotron-text {
+        margin: 50% auto;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+    .jumbotron {
+        background-size: 235%;
+    }
+
+    .jumbotron-text {
+        margin: 50% auto;
+    }
+}
